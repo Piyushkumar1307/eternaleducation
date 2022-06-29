@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".AdminActivity">
+
+    <TextView
+        android:id="@+id/text_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Admin Login Credentials"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        android:textStyle="normal"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="100dp"/>
+
+    <ImageView
+        android:id="@+id/logpicc"
+        android:layout_width="wrap_content"
+        android:layout_height="300dp"
+        android:layout_marginTop="90dp"
+        android:src="@drawable/logo" />
+
+    <ImageView
+        android:id="@+id/emai"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="410dp"
+        android:src="@drawable/ic_email" />
+
+    <EditText
+        android:id="@+id/login_email"
+        android:layout_width="300dp"
+        android:layout_height="70dp"
+        android:layout_below="@+id/logpicc"
+        android:layout_marginLeft="70dp"
+        android:layout_marginBottom="10dp"
+        android:backgroundTint="@color/white"
+        android:hint="Email"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/pass"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginTop="490dp"
+        android:src="@drawable/ic_lock" />
+
+    <EditText
+        android:id="@+id/login_password"
+        android:layout_width="300dp"
+        android:layout_height="70dp"
+        android:layout_below="@+id/login_email"
+        android:layout_marginLeft="70dp"
+        android:layout_marginBottom="20dp"
+        android:backgroundTint="@color/white"
+        android:hint="Password"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/Adminlogin"
+        android:layout_width="170dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/login_password"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="20dp"
+        android:backgroundTint="@color/white"
+        android:text="Login"
+        android:textColor="@color/black"
+        android:textSize="20dp" />
+
+</RelativeLayout>

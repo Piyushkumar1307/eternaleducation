@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.eternaleducation">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.EternalEducation">
+        <activity
+            android:name=".AboutUsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TeachersActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DevelopersActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UpcomingcousreActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Viewuserdpp10Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Viewuserdpp9Activity"
+            android:exported="false" />
+        <activity
+            android:name=".View9dppActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Viewdpp10Activity"
+            android:exported="false" />
+        <activity
+            android:name=".DPP9Activity"
+            android:exported="false" />
+        <activity
+            android:name=".DPP10Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Adminvideo10Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Adminvideo9Activity"
+            android:exported="false" />
+        <activity
+            android:name=".AdminvideoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AccountActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SettingsHomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Adminlive10Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Adminlive9Activity"
+            android:exported="false" />
+        <activity
+            android:name=".AdminClassActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ViewolymchemActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ViewolymmathsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ViewolymphyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AdminolymphyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AdminolympchemActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AdminolymmathsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ViewadminntseActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ViewadmincbseActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ViewadminjeequesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AdminntsequesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AdmincbsequesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AdminjeequesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AdminolympquestActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Viewadmin10phyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Viewadmin10mathActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Viewadmin10chemActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Viewadmin9phyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Viewpdf1Activity"
+            android:exported="false" />
+        <activity
+            android:name=".ViewpdfActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Admin9chemActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Admin9phyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Admin9mathActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Admin10mathActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Admin10chemActivity"
+            android:exported="false" />
+        <activity
+            android:name=".admin10phyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Adminquest9Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Adminclas10Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Adminclas9Activity"
+            android:exported="false" />
+        <activity
+            android:name=".PhyolympActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Chemolympctivity"
+            android:exported="false" />
+        <activity
+            android:name=".MatholympActivity"
+            android:exported="false" />
+        <activity
+            android:name=".phylect10Activity"
+            android:exported="false" />
+        <activity
+            android:name=".phyliveclass10Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Mathclass10Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Mathlect10Activity"
+            android:exported="false" />
+        <activity
+            android:name=".chemclass10Activity"
+            android:exported="false" />
+        <activity
+            android:name=".chemlect10Activity"
+            android:exported="false" />
+        <activity
+            android:name=".phylect9Activity"
+            android:exported="false" />
+        <activity
+            android:name=".phyclass9Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Mathclass9Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Mathlet9Activity"
+            android:exported="false" />
+        <activity
+            android:name=".chemclass9Activity"
+            android:exported="false" />
+        <activity
+            android:name=".chemlect9Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Phyclass10Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Mathnote10Activity"
+            android:exported="false" />
+        <activity
+            android:name=".chemnote10Activity"
+            android:exported="false" />
+        <activity
+            android:name=".phynotesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ChemnotesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathnotesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ChemmActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PhyssActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathssActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ChemActivity"
+            android:exported="false" />
+        <activity
+            android:name=".phyActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MathActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NtseActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CbseActivity"
+            android:exported="false" />
+        <activity
+            android:name=".JeeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OlympiadActivity"
+            android:exported="false" />
+        <activity
+            android:name=".class10Activity"
+            android:exported="false" />
+        <activity
+            android:name=".class9Activity"
+            android:exported="false" />
+        <activity
+            android:name=".AdminDataActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AdminActivity"
+            android:exported="false" />
+        <activity
+            android:name=".logout"
+            android:exported="false" />
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

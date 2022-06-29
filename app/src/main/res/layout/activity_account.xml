@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C5C5BA"
+    tools:context=".AccountActivity">
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/bottomNavigationView"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="18dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginEnd="14dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="203dp">
+
+
+        <Button
+            android:id="@+id/btnlogout"
+            android:layout_width="147dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginStart="109dp"
+            android:layout_marginTop="13dp"
+            android:layout_marginRight="123dp"
+            android:backgroundTint="@color/white"
+            android:padding="10dp"
+            android:text="Log out"
+            android:textColor="@color/black" />
+
+    </RelativeLayout>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bottomNavigationView"
+        android:layout_alignParentBottom="true"
+        android:elevation="8dp"
+        app:menu="@menu/menu"
+        app:itemIconTint="@drawable/selector"
+        app:itemTextColor="@drawable/selector"
+        android:background="@drawable/bg_bottom_navigation_view"/>
+
+    <ImageView
+        android:id="@+id/signpic"
+        android:layout_width="120dp"
+        android:layout_height="116dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="39dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="252dp"
+        android:layout_marginBottom="460dp"
+        android:background="@drawable/loki"
+        android:outlineProvider="paddedBounds"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:id="@+id/nametea"
+        android:layout_width="309dp"
+        android:layout_height="49dp"
+        android:layout_above="@+id/bottomNavigationView"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="41dp"
+        android:layout_marginTop="93dp"
+        android:layout_marginEnd="60dp"
+        android:layout_marginBottom="329dp"
+        android:text="Name"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/mail"
+        android:layout_width="307dp"
+        android:layout_height="54dp"
+        android:layout_above="@+id/bottomNavigationView"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="41dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="61dp"
+        android:layout_marginBottom="271dp"
+        android:text="Email id"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <TextView
+        android:layout_width="307dp"
+        android:layout_height="54dp"
+        android:layout_above="@+id/bottomNavigationView"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="42dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="42dp"
+        android:layout_marginBottom="133dp"
+        android:gravity="center"
+        android:text="Feel free to login Again"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+</RelativeLayout>

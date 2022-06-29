@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AboutUsActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="310dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/logo" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="5dp"
+        android:gravity="start"
+        android:letterSpacing="0.04"
+        android:lineSpacingExtra="2dp"
+        android:text="Treta Education, a division of Treta Company that develops educational apps, created Eternal Education. In 2020, the treta company was founded.
+All ninth- and tenth-graders who attend Eternal Education are given a free education. The UI and UX of our app will be changed in the upcoming update in an effort to make it more user-friendly. Along with class 9 and class 10 classes, we will also add a few more distinct courses to our app."
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="17dp" />
+
+</LinearLayout>

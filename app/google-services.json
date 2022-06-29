@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138237032594",
+    "project_id": "eternal-education-18e60",
+    "storage_bucket": "eternal-education-18e60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138237032594:android:c654b2012b7048a8610e4b",
+        "android_client_info": {
+          "package_name": "com.example.eternaleducation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138237032594-ldmnp53j0i1fn7f2oumiko6nakl5h2of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6U7XvHq9wya40zS10EV7l0-q8m8TNEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138237032594-ldmnp53j0i1fn7f2oumiko6nakl5h2of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

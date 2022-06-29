@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/drawable/selector.xml" value="0.2295" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_about_us.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_account.xml" value="0.264" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_admin.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_admin10chem.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_admin10cvideo.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_admin10math.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_admin10mvideo.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_admin10phy.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_admin10pvideo.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_admin9chem.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_admin9cvideo.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_admin9math.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_admin9mvideo.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_admin9phy.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_admin9pvideo.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_admin9video.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_admin_class.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_admin_data.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_admincbseques.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_adminclas10.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_adminclas9.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_adminjeeques.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_adminlive10.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_adminlive9.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_adminntseques.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_adminolymmaths.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_adminolympchem.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_adminolymphy.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_adminolympquest.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_adminquest9.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_adminquesupload.xml" value="0.264" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_adminvideo.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_adminvideo10.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_adminvideo9.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_cbse.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_chem.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_chemcbse.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_chemclass10.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_chemclass9.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_chemlect10.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_chemlect9.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_chemm.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_chemnote10.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_chemnotes.xml" value="0.264" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_chemolympctivity.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_class10.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_class9.xml" value="0.17691154422788605" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_developers.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_dpp10.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_dpp9.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_jee.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_logout.xml" value="0.264" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_math.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_mathcbse.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_mathclass10.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_mathclass9.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_mathlect10.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_mathlet9.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_mathnote10.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_mathnotes.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_matholymp.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_mathss.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_ntse.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_olympiad.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_phy.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_phycbse.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_phyclass10.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_phyclass9.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_phylect10.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_phylect9.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_phyliveclass10.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_phynotes.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_phyolymp.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_physs.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_settings_home.xml" value="0.264" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_show10cvideo.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_show10mvideo.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_show10pvideo.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_show9c_fullscreen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_show9cvideo.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_show9mvideo.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_show9pvideo.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_showchemlect9full.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_showmathlect9full.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_showphylect9full.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_splashscreen.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_teachers.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_upcomingcousre.xml" value="0.264" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_view9dpp.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_viewadmin10chem.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_viewadmin10math.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_viewadmin10phy.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_viewadmin9phy.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_viewadmincbse.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_viewadminjeeques.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_viewadminntse.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_viewchem10note.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_viewdpp10.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_viewolymchem.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_viewolymmaths.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_viewolymphy.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_viewpdf.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_viewpdf1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_viewpdf2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_viewquestpdf.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_viewuserdpp10.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/activity_viewuserdpp9.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/adminclas9quessiglerow.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/app_bar_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/content_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/exoplayer_custom_controls.xml" value="0.2" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/fragment_logut.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/header.xml" value="0.19610507246376813" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/layout/item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/menu/main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ALPHA/AndroidStudioProjects/eternaleducation/app/src/main/res/menu/search_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
